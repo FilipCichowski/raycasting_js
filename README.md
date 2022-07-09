@@ -23,7 +23,7 @@ This is simple raycasting engine inspired by Wolfenstein 3D written in JS using 
 
 ## How to run it?
 
-Just download code, unzip and open index.html file using any modern browser. Play using arrows.
+Play here: https://raycasting-js.herokuapp.com/ or just download code, unzip and open index.html file using any modern browser. Play using arrows.
 
 ## License
 
